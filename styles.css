@@ -96,8 +96,8 @@ body{
   }
   .mission
   {
-    color: #77fac6;
-    font-size:  50px;
+    color: whitesmoke;
+    font-size:  25px;
     font-family:'Times New Roman'
     
 
@@ -108,4 +108,19 @@ body{
   #motto { font-style: italic;
 
   }
-  
+  .card-body{
+    background-color: #243447;
+    color:white;
+   }
+   .card-body a {
+    background-color: #3b857e;
+    color:#dae8e6;
+   }
+   .logosize{
+   width= "450";
+   height="450";
+  }
+  .text-muted {
+    color:#dae8e6;
+
+  }
